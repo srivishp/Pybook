@@ -1,4 +1,4 @@
-# This ia billed project under Google Cloud suite. Its free for first 1000 pages/month
+# This is a billed project under Google Cloud suite. Its free for first 1000 pages/month
 
 import os, io
 from google.cloud import vision
